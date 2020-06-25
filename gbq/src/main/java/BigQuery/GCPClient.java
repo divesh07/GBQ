@@ -34,7 +34,7 @@ public class GCPClient {
      */
     public static final Logger LOG = LogManager.getLogger(GCPClient.class);
 
-    public static String filePath = "/test-defaults.properties";
+    public static String filePath = "/gcp-defaults.properties";
 
     public static String colStart;
 
